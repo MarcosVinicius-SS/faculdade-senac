@@ -1,0 +1,17 @@
+{
+  "favoritos": [
+    {
+      "id": "1780880923004",
+      "cardId": "54265980",
+      "nome": "DoomZ VII Seven - Elara",
+      "tipo": "Effect Monster",
+      "atributo": "DARK",
+      "nivel": 4,
+      "atk": 1400,
+      "def": 1200,
+      "imagem": "https://images.ygoprodeck.com/images/cards/54265980.jpg",
+      "nota": "s",
+      "criadoEm": "2026-06-08T01:08:43.004Z"
+    }
+  ]
+}

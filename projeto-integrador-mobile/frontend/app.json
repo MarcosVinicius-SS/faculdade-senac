@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "YuGiOh Favoritos",
+    "slug": "yugioh-favoritos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#111111"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#111111"
+      }
+    }
+  }
+}
